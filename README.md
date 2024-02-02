@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### I am a current senior at Denison University, studying Data Analytics. I will be using this page to make updates regarding my senior research, which is examning the factors that influence art museum attendance. Stay tuned...
 <!--
 **janinequig/janinequig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
